@@ -1,7 +1,7 @@
 TRE Sitara Examples
 ===================
 
-Arduino AVR-based example sketches, ported and tested on the TI Sitara for the Arduino Tre. 
+Arduino IDE-based example sketches, ported and tested on the TI Sitara for the Arduino TRE and it's new IDE. 
 
 Testing
 =======
